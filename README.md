@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- 顶部横幅（可替换成你自己的图片链接） -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+YourName;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+WeiJin;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 <!-- 社交链接和统计卡片 -->
